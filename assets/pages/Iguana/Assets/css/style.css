@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    font-family: "Raleway", sans-serif;
+}
+header{
+    width: 1903px;
+    opacity: 1;
+}
+
+header div{
+    width: 1903px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
+header div img{
+    width: 1903px;
+}
+
+.modulo2{
+    display: flex;
+    width: 1903px;
+    height: 418px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+    opacity: 1;
+}
+
+.parrafo1{
+    display: flex;
+    width: 600px;
+    height: 298px;
+    align-items: center;
+    font-size: 16px;       
+}
+
+.imagen1{
+    width: 500px;
+    height: 338px;
+    background-image: url(/Assets/img/iguana-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.modulo3 {
+    width: 1903px;
+    height: 418px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    color: white;
+}
+
+.modulo3 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+
+.box div{
+    text-align: center;
+    font-size: 30px;
+}
+
+.galeria{
+    display: flex;
+    width: 1903px;
+    height: 418px;
+    background-color: black;
+    color: white;
+    opacity: 1;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.galeria div{
+    width: 500px;
+    height: 238px;
+}
+
+.galeria div img{
+    width: 500px;
+    height: 238px;
+}
+
+footer{
+    display: flex;
+    width: 1903px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
